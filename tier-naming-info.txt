@@ -1,0 +1,7 @@
+v**.0  =  t2.micro
+v**.1  =  t2.nano
+v**.2  =  t2.small
+v**.3  =  t2.medium
+v**.4  =  t2.large
+v**.5  =  t2.xlarge
+v**.6  =  t2.2xlarge
